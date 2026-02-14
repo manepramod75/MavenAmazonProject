@@ -1,0 +1,4 @@
+# Created at 2026-02-09T10:04:05.975
+
+Two tests in the same suite [Smokesuite] cannot have the same name: testing on Chrome
+
