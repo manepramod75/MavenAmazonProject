@@ -8,15 +8,4 @@
       <class name="SmokeTC_Maven.Amazon01.TestCase2_login_SearchTheProduct_LogOut"/>
     </classes>
   </test> <!-- testing.xml -->
-  
-  <test thread-count="5" name="testing on edge">
-  <parameter name="browserName" value="edge"></parameter>
-    <classes>
-      <class name="SmokeTC_Maven.Amazon01.TestCase1_login"/>
-      <class name="SmokeTC_Maven.Amazon01.TestCase2_login_SearchTheProduct_LogOut"/>
-    </classes>
-  </test> <!-- testing.xml -->
-  
-  
-  
 </suite> <!-- Suite -->
